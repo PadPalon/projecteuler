@@ -1,4 +1,4 @@
-(ns projecteuler.problems
+(ns problems.first
   (:require clojure.set))
 
 (defn getSetOfMultiples
